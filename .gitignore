@@ -1,2 +1,7 @@
-*.class
-*.log
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
